@@ -2,4 +2,6 @@
 import "@hotwired/turbo-rails"
 import "controllers"
 import "main"
-import "shinkuhadouken"
+import "./P236236"
+import "./P214214"
+import "ikkaiten"
